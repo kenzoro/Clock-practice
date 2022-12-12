@@ -1,0 +1,26 @@
+
+/* to top button
+
+#toTopButton
+{
+ background-color: teal;
+ width: 150px;
+ padding: 10px;
+ position: fixed;
+ bottom: 15px;
+ right: 15px;
+ cursor: pointer;
+ text-align: center;
+}
+
+#toTopButton:hover
+{
+ color: red;
+}
+
+*/
+
+#sample
+{
+ position: absolute;
+}

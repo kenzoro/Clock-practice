@@ -26,7 +26,7 @@ function Clock(elementHandler)
 window.onload = function()
 {
  var info = document.getElementById("info");
- var clock = new clock(info);
+ var clock = new Clock(info);
 
  clock.start();
 
